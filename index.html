@@ -3,30 +3,32 @@
 <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
 <style type="text/css">
-.content {
+content {
   max-width: 53em;
   margin: auto;
 }
 
-.sidebar {
-height: 100%;
-width: 150px;
-position: absolute;
-left: 0;
-top: 0;
-padding-top: 40px;
-background-color: lightblue;
+sidebar {
+   height: 200px;
+   width: 150px;
+   position: -webkit-sticky; /* for Safari users */
+   position: sticky;
+   top: 0px;
+   float: right;
+   margin-top: 100px;
+   padding-top: 40px;
+   background-color: lightblue;
 }
 
-.sidebar div {
-padding: 8px;
-font-size: 24px;
-display: block;
+sidebar div {
+  padding: 8px;
+  font-size: 24px;
+  display: block;
 }
 
-.body-text {
-margin-left: 150px;
-font-size: 18px;
+body-text {
+  margin-right: 150px;
+  font-size: 18px;
 }
 
 body {
