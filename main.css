@@ -179,6 +179,7 @@ hr{
     font-weight: normal;
     font-size: 13px;
     /*color: #039;*/
+    margin-left: 160px; /* Same as the width of the sidebar */
     text-transform: uppercase;
     border-right: 1px solid #0865c2;
     border-top: 1px solid #0865c2;
