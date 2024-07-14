@@ -9,7 +9,6 @@
   background-color: #2565AE; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
-  color: #b2e7ea;
 }
 
 /* The navigation menu links */
@@ -81,7 +80,7 @@ body {
 
 a:link , a:visited {
   text-decoration : none;
-  color: #cfe2f3;
+  color: #2565ae;
   font-weight: 550;
 }
 
@@ -97,7 +96,8 @@ img {
   background: #88a5c2;
   padding: 12px 4px;
   width: 100%;
-  height: 190px;
+  min-width: 600px;
+  height: 250px;
 }
 
 #rcorners2 {
@@ -209,4 +209,17 @@ hr{
     color: black;
     /*border-right: 1px dashed #6cf;*/
     border-right: 1px dashed gray;
+}
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 24px;
+  color: #add8e6;
+  display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
 }
