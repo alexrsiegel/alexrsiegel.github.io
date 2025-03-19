@@ -16,13 +16,13 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 24px;
-  color: #b2e7ea;
+  color: #ffffff;
   display: block;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #e6e6e6;
 }
 
 /* Style page content */
