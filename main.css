@@ -215,11 +215,11 @@ hr{
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 24px;
-  color: #add8e6;
+  color: #000000;
   display: block;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #bababa;
 }
