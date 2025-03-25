@@ -97,7 +97,7 @@ img {
   padding: 12px 4px;
   width: 100%;
   min-width: 600px;
-  height: 200px;
+  height: 150px;
 }
 
 #rcorners2 {
@@ -196,7 +196,7 @@ hr{
 {
     /*padding: 4px 4px;*/
     /*color: #669;*/
-    color:black;
+    color: #404040;
     /*border-right: 1px dashed #6cf;*/
     border-right:none;
     text-align: left;
@@ -207,7 +207,7 @@ hr{
 {
     padding: 5px 10px;
     /*color: #669;*/
-    color: black;
+    color: #404040;
     /*border-right: 1px dashed #6cf;*/
     border-right: 1px dashed gray;
 }
