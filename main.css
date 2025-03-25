@@ -137,13 +137,13 @@ body{
 #link_bar a:hover,
 #link_bar a:focus,
 #link_bar a:active{
-    color: #404040;
+    color: #ffffff;
 	text-decoration: none;
 	background-color: transparent;
 }
 
 #link_bar strong{
-    color: #404040;
+    color: #ffffff;
 	    font: inherit;
 }
 #link_bar li{
@@ -215,7 +215,7 @@ hr{
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 24px;
-  color: #404040;
+  color: #ffffff;
   display: block;
 }
 
