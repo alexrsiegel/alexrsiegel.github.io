@@ -16,7 +16,7 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 24px;
-  color: #ffffff;
+  color: #404040;
   display: block;
 }
 
@@ -137,13 +137,13 @@ body{
 #link_bar a:hover,
 #link_bar a:focus,
 #link_bar a:active{
-    color: #ffffff;
+    color: #404040;
 	text-decoration: none;
 	background-color: transparent;
 }
 
 #link_bar strong{
-    color: #ffffff;
+    color: #404040;
 	    font: inherit;
 }
 #link_bar li{
@@ -215,7 +215,7 @@ hr{
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 24px;
-  color: #ffffff;
+  color: #404040;
   display: block;
 }
 
